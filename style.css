@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+#lightbulb {
+    width: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#lightSwitch {
+    width: 100px;
+    margin-top: 50px;
+    cursor: pointer;
+}
